@@ -1,6 +1,6 @@
-# My first PMCode from my CSV
+# First contact with PMcode
 
-In this section you will start learning how to use PMCode by performing a general main program reading. Following sections will teach you [how to upload your own csv file]() and start using PMCode to get information from your data.
+In this section you will start learning how to use PMCode by performing a general main program reading. Following sections will teach you [how to upload your own csv file](./How to upload CSV) and start using PMCode to get information from your data.
 
 *Note: If you want to learn step by step to create your own PMCode from the beginning, I refer you to [this page]() where you can create a simple project, with the explanation of each line you should add and why they should be added.*
 
